@@ -1,5 +1,7 @@
 # Lovefield
 
+[![Join the chat at https://gitter.im/unbug/lovefield](https://badges.gitter.im/unbug/lovefield.svg)](https://gitter.im/unbug/lovefield?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/google/lovefield.svg?branch=master)](
 https://travis-ci.org/google/lovefield)
 [![NPM version](https://badge.fury.io/js/lovefield.svg)](https://badge.fury.io/js/lovefield)
